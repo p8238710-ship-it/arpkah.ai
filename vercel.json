@@ -1,0 +1,12 @@
+
+{
+  "functions": {
+    "api/proxy.ts": {
+      "memory": 1024,
+      "maxDuration": 180
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/proxy" }
+  ]
+}

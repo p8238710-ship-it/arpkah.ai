@@ -1,0 +1,7 @@
+{
+  "name": "AROKAH.Ai",
+  "description": "An intelligent conversational AI. Engage in insightful conversations, get creative text responses, and generate stunning images from your prompts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
